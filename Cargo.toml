@@ -5,7 +5,8 @@ resolver = "2"
 
 members = [
     "module01-variables-immutability-shadowing",
-    "module02-data-types",
+    "module02-data-types", 
+    "module03-functions",
     
 
 ]

@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "module02-data-types"
 version = "0.1.0"
+
+[[package]]
+name = "module03-functions"
+version = "0.1.0"
