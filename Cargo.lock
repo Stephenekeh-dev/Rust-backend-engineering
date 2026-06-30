@@ -17,3 +17,7 @@ version = "0.1.0"
 [[package]]
 name = "module04-control-flow"
 version = "0.1.0"
+
+[[package]]
+name = "module05-ownership-borrowing"
+version = "0.1.0"
