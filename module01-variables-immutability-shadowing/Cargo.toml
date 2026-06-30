@@ -1,5 +1,5 @@
 [package]
-name = "variables-mutability-shadowing-01"
+name = "module01-variables-immutability-shadowing"
 version = "0.1.0"
 edition = "2024"
 

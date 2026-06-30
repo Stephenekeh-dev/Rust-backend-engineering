@@ -1,0 +1,11 @@
+# Cargo.toml
+
+[workspace]
+resolver = "2"
+
+members = [
+    "module01-variables-immutability-shadowing",
+    "module02-data-types",
+    
+
+]
