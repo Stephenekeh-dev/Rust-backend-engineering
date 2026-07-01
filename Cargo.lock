@@ -21,3 +21,11 @@ version = "0.1.0"
 [[package]]
 name = "module05-ownership-borrowing"
 version = "0.1.0"
+
+[[package]]
+name = "module06-references-slices"
+version = "0.1.0"
+
+[[package]]
+name = "module07-structs"
+version = "0.1.0"

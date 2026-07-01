@@ -6,7 +6,11 @@ resolver = "2"
 members = [
     "module01-variables-immutability-shadowing",
     "module02-data-types", 
-    "module03-functions", "module04-control-flow", "module05-ownership-borrowing",
+    "module03-functions", 
+    "module04-control-flow", 
+    "module05-ownership-borrowing",
+     "module06-references-slices", 
+     "module07-structs",
     
 
 ]
