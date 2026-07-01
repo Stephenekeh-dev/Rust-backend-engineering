@@ -10,7 +10,8 @@ members = [
     "module04-control-flow", 
     "module05-ownership-borrowing",
      "module06-references-slices", 
-     "module07-structs",
+     "module07-structs", 
+     "module08-enums",
     
 
 ]
