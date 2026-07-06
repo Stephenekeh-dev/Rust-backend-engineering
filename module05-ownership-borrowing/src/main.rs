@@ -2,7 +2,7 @@ fn main() {
 
     println!("========== OWNERSHIP ==========");
 
-    let name1 = String::from("Steven");
+    let name1: String = "Steven".into();
 
     // Ownership moves from name1 to name2
     let name2 = name1;

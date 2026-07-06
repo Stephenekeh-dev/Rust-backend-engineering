@@ -33,3 +33,23 @@ version = "0.1.0"
 [[package]]
 name = "module08-enums"
 version = "0.1.0"
+
+[[package]]
+name = "module09-pattern-matching"
+version = "0.1.0"
+
+[[package]]
+name = "module10-option-result"
+version = "0.1.0"
+
+[[package]]
+name = "module11-vectors"
+version = "0.1.0"
+
+[[package]]
+name = "module12-hashmaps"
+version = "0.1.0"
+
+[[package]]
+name = "module13-generics"
+version = "0.1.0"

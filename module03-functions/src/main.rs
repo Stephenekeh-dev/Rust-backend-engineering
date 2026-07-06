@@ -5,7 +5,7 @@ fn main() {
   println!("the value returned by the method area() is  {}", area);
 }
 
-// Custom function 
+// Custom function without parameter and return type
 fn custom_function(){
     println!(" This is a user created function");
 }
@@ -13,8 +13,8 @@ fn custom_function(){
 fn with_parameter(x:i32) {
     println!("This is the parameter {}", x);
 } 
-// Function with parameter and reutrn type
-fn area(x:i32, y:i32) -> i32 {
-    x * y
+// Function with parameter and return type
+fn area(length:i32, width:i32) -> i32 {
+    length * width
 }
 

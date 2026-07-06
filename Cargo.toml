@@ -12,6 +12,5 @@ members = [
      "module06-references-slices", 
      "module07-structs", 
      "module08-enums",
-    
-
+     "module09-pattern-matching", "module10-option-result", "module11-vectors", "module12-hashmaps", "module13-generics",
 ]

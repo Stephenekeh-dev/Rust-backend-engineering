@@ -42,12 +42,14 @@ fn main() {
         username: String::from("mary"),
 
         email: String::from("mary@gmail.com"),
-
+        age:24,
         ..user1
     };
 
     println!("New Username: {}", user2.username);
     println!("New Email: {}", user2.email);
+    println!("the age is {}", user2.age);
+    println!("The age is {}", user1.active);
 
 
     println!("\n========== TUPLE STRUCT ==========");

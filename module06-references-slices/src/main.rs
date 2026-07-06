@@ -29,8 +29,9 @@ fn main() {
 
     println!("Updated Username: {}", username);
 
-
-    println!("\n========== STRING SLICES ==========");
+   // Slices lets you reference a contiguous sequence of element in a collection
+   // String slice is a reference to a contaguous of characters  of a string
+   println!("\n========== STRING SLICES ==========");
 
     let message = String::from("Rust Backend Engineering");
 
@@ -41,12 +42,12 @@ fn main() {
     println!("First Word: {}", first_word);
     println!("Second Word: {}", backend_word);
 
-
+    //Array slice is a reference to a contaguous sequence of element of an array
     println!("\n========== ARRAY SLICES ==========");
 
     let numbers = [10, 20, 30, 40, 50];
 
-    let slice = &numbers[1..4];
+    let slice = &numbers[1..=4];
 
     println!("Array Slice: {:?}", slice);
 }

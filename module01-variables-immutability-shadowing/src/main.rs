@@ -15,6 +15,7 @@ fn main() {
 
     //Demonstrating shadowing 
     let email = "steve.example.com";
+    println!("{}", email);
     //using the same variable name shadows the first one
     let email = "ekeh.example.com";
     println!("{}", email);
